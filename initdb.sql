@@ -7,4 +7,4 @@ create table ejemplo
         nombre character varying,
         direccion character varying,
         CONSTRAINT pk_clave primary key (clave)
-)
+);
